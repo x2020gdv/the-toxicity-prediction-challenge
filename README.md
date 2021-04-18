@@ -3,9 +3,6 @@
 CSCI 555-20 Data mining And Machine Learning
 The Toxicity Prediction Challenge - README FILE  
 
-Team Name: Bit and Byte
-Team Members: Shreya Dandavate - x2020gdv, Dhwani Patel - x2020fvk  
-
 Preloaded Files in Zip
 Provided zip file contains all the necessary below mentioned files.
 File Description
