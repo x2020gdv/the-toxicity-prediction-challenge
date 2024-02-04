@@ -1,4 +1,4 @@
-# the-toxicity-prediction-challenge
+# The-Toxicity-Prediction-Challenge
 
 CSCI 555-20 Data mining And Machine Learning
 The Toxicity Prediction Challenge - README FILE  
